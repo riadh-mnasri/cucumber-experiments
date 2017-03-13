@@ -1,0 +1,25 @@
+#Intellij
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Generated Files
+logs/
+*.log
+
+# Temporary directories and files
+backup/
+old/
