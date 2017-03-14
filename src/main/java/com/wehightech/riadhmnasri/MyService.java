@@ -1,9 +1,5 @@
 package com.wehightech.riadhmnasri;
 
-/**
- * Hello world!
- *
- */
 public class MyService
 {
     public void doSomething() {
